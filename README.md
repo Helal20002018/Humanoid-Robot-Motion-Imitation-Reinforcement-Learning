@@ -1,11 +1,16 @@
 # Humanoid-Robot-Motion-Imitation-Reinforcement-Learning
 
-Project Overview
+📌 Project Overview
 
 This project was developed on the Ubtech Yanshee humanoid robot.
 The focus was to enable the robot to mirror human upper-body movements using external camera measurements and to explore reinforcement learning (RL) for extending motion capabilities.
+ 
+ ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/a3b16236-ac78-49cc-bce1-8cd58e8fc022)
 
--- My Contributions
+
+
+
+🔧 My Contributions
 
 Human Motion Tracking: Designed a script to capture body dimensions (shoulder–elbow and elbow–wrist) from an external camera.
 
@@ -19,7 +24,7 @@ Reinforcement Learning: Applied RL techniques to enhance motion performance and 
 
 Application-Oriented Design: Designed the system for scenarios where humans should avoid direct exposure (e.g., hazardous tasks), allowing the robot to act as a substitute.
 
--- Tools & Technologies
+🛠️ Tools & Technologies
 
 Frameworks: ROS / ROS 2, OpenCV
 
@@ -29,7 +34,7 @@ Hardware: Ubtech Yanshee humanoid robot, external camera
 
 Methods: Motion Imitation, Human-to-Robot Mapping, Servo Control, Reinforcement Learning
 
--- Outcome
+🚀 Outcome
 
 Successfully achieved accurate real-time motion imitation from human to robot.
 
