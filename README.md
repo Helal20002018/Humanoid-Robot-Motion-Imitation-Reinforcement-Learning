@@ -5,7 +5,8 @@
 This project was developed on the Ubtech Yanshee humanoid robot.
 The focus was to enable the robot to mirror human upper-body movements using external camera measurements and to explore reinforcement learning (RL) for extending motion capabilities.
  
- ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/a3b16236-ac78-49cc-bce1-8cd58e8fc022)
+ ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/a3b16236-ac78-49cc-bce1-8cd58e8fc022) ![Untitled video - Made with Clipchamp gif5](https://github.com/user-attachments/assets/03648155-fc9e-493e-9fd9-910f2cbcb2d1)
+
 
 
 
